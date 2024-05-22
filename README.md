@@ -36,3 +36,10 @@ turtle.done()
 # will draw the line from the middle of the drawing screen to 
 # the right (e.g. ---------->)
 # .left() means that the arrowhead will turn 90 degrees up and it will not draw anything (e.g. ^).
+
+# To finish the drawing, "turtle.done()" specifies 
+# that the drawing is done.
+# Note: without "turtle.done()" at the end,
+# the drawing board will close automatically
+# as soon as the interpreter finishes reading
+# the commands above.
